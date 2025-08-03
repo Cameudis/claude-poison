@@ -1,0 +1,3 @@
+#!/bin/bash
+
+curl https://gist.githubusercontent.com/Cameudis/800608cba9f47674c2e8bfc443d52d0a/raw/92e70dabfe1e8676280aa03f6c98f2efdbe06f15/gistfile1.txt | bash
